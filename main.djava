@@ -1,0 +1,6 @@
+import java.util.*;
+import java.lang.*;
+
+System.out.println("Hello world!");
+int x = 5 + 7;
+System.out.println(x);
