@@ -11,7 +11,7 @@ int x = 5 + 7;
 System.out.println(x);
 
 To run this file, simply type in the command 
-"djavac main.djava --export=true"
+"djavac --file=main.djava --export=true"
 
 Optional export: true if we want to export out .java file and false otherwise
 
